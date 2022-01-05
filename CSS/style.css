@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap");
+body {
+    margin: 0;
+    padding: 0;
+    background: teal;
+}
+
+.header {
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+    text-align-last: center;
+    font-size: 2rem;
+    font-family: "Cairo", sans-serif;
+    color: white;
+}
+
+#id {
+    color: whitesmoke;
+}
